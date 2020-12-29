@@ -7,7 +7,7 @@ Este curso está programado para ser concluido a finales de Enero de 2021. Los M
 ## Que es lo que hacemos?
 
 Este es un repositorio con el objetivo de realizar todas las tareas y laboratorios correspondientes con el mismo curso homónimo. 
-- La ubicación general de todo el curso está: [20487-D: Developing Microsoft Azure and Web Services](https://github.com/MicrosoftLearning/20487D-Developing-Microsoft-Azure-and-Web-Services) 
+- La ubicación general de todo el curso está:  [20487-D: Developing Microsoft Azure and Web Services](https://github.com/MicrosoftLearning/20487D-Developing-Microsoft-Azure-and-Web-Services) 
 - Para encontrar más información específica de este curso puede visitar:  [20487-D: Developing Microsoft Azure and Web Services](https://www.microsoft.com/learning/en-us/course.aspx?ID=20487)
 
 ## Material del curso
