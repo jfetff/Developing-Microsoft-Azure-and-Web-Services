@@ -40,13 +40,13 @@ Después de completar este curso, seremos capaces de..:
 
 - El contenido de cada tarea se describe como sigue a continuación:
 
-    - Tarea 01: Comprende los laboratorios de Mod-1 y las tareas del MOC del módulo 1.
-    - Tarea 02: En esta tarea solo comprende los Laboratorios del Mod-2
-    - Tarea 03: Comprende los laboratorios de Mod-3 y las tareas del MOC del módulo 3.
-    - Tarea 04: Comprende los laboratorios de Mod-4 y las tareas del MOC del módulo 4.
-    - Tarea 05: Laboratorios de Mod-5 y las tareas del MOC del módulo 5.
-    - Tarea 06: Laboratorios de Mod-6 y las tareas del MOC del módulo 6.
-    - Tarea 07: Laboratorios de Mod-7 y las tareas del MOC del módulo 7.
-    - Tarea 08: Laboratorios de Mod-8 y las tareas del MOC del módulo 8.
-    - Tarea 09: Laboratorios de Mod-9 y las tareas del MOC del módulo 9.
-    - Tarea 10: Laboratorios de Mod-10 y las tareas del MOC del módulo 10.
+    - Mod-01: Comprende la Tarea 1 que incluye los laboratorios de Mod-1 y las tareas del MOC del módulo 1.
+    - Mod-02: En este módulo  comprende la Tarea 2 que incluye los Laboratorios del Mod-2
+    - Mod-03: Comprende la Tarea 3 que incluye los laboratorios de Mod-3 y las tareas del MOC del módulo 3.
+    - Mod-04: Comprende la Tarea 4 que incluye los laboratorios de Mod-4 y las tareas del MOC del módulo 4.
+    - Mod-05: Comprende la Tarea 5 que incluye Laboratorios de Mod-5 y las tareas del MOC del módulo 5.
+    - Mod-06: Comprende la Tarea 6 que incluye Laboratorios de Mod-6 y las tareas del MOC del módulo 6.
+    - Mod-07: Comprende la Tarea 7 que incluye Laboratorios de Mod-7 y las tareas del MOC del módulo 7.
+    - Mod-08: Comprende la Tarea 8 que incluye Laboratorios de Mod-8 y las tareas del MOC del módulo 8.
+    - Mod-09: Comprende la Tarea 9 que incluye Laboratorios de Mod-9 y las tareas del MOC del módulo 9.
+    - Mod-10: Comprende la Tarea 10 que incluye Laboratorios de Mod-10 y las tareas del MOC del módulo 10.

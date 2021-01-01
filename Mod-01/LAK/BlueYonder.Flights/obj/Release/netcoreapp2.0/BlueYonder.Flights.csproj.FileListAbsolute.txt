@@ -1,0 +1,14 @@
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\appsettings.json
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\BlueYonder.Flights.deps.json
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\BlueYonder.Flights.runtimeconfig.json
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\BlueYonder.Flights.runtimeconfig.dev.json
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\BlueYonder.Flights.dll
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\bin\Release\netcoreapp2.0\BlueYonder.Flights.pdb
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.csprojAssemblyReference.cache
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.AssemblyInfoInputs.cache
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.AssemblyInfo.cs
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.csproj.CoreCompileInputs.cache
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.dll
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.pdb
+C:\20487D\Ejercicios\Mod-1\LAK\BlueYonder.Flights\obj\Release\netcoreapp2.0\BlueYonder.Flights.genruntimeconfig.cache
