@@ -1,0 +1,12 @@
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.deps.json
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.dll
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.pdb
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.dll
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.pdb
+C:\20487D\Ejercicios\Mod-2\DEMO\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.genruntimeconfig.cache
